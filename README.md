@@ -2,7 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdiOG92eHJ4b3VkZnhiZ2F2cnU4dXpidjhiMHd0cW44aHl0b2dkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="600" />
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=0x00M99;Mobile+Security+Researcher;Android+Penetration+Tester;Silent+but+Deadly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=0x00M99;Mobile+Security+Researcher;Android+Penetration+Tester;Silent+but+Deadly" alt="Typing SVG" />
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/Status-Hunting_For_Bugs-00FF00?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   <img src="https://img.shields.io/badge/Weapon-M99-8A2BE2?style=for-the-badge" />
