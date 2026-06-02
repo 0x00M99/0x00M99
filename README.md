@@ -23,3 +23,27 @@
 
 > cat dark_passenger.log
 "I don't kill apps. I disassemble them – one dex byte at a time."
+``` 
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-0x00M99-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0x00M99-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:0x00M99@pm.me">
+    <img src="https://img.shields.io/badge/Email-0x00M99%40pm.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <code>if (you_liked_this_repository) { chmod +x star_button && ./star_button; }</code>
+  <br/><br/>
+  <code>"Tonight's the night. And it's going to happen again and again."</code>
+</div>
